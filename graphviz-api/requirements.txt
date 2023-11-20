@@ -1,0 +1,3 @@
+firefly-python
+gunicorn
+prometheus_client
